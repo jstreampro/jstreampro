@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jstreampro
 - 👀 I’m interested in learning  	  
-- 🌱 I’m currently learning PT
+- 🌱 I’m currently working as a PT
 - 💞️ I’m looking to collaborate on anyone who is ambitious as I am
 - 📫 reach me via Github
 
